@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "actor_name": "John Doe",
+        "actor_photo": "https://i.ibb.co/VYCcL7g/download-2.jpg",
+        "salary": 5000,
+        "designation": "Lead Actor",
+        "description": "John Doe is an accomplished actor known for his roles in blockbuster movies."
+    },
+    {
+        "id": 2,
+        "actor_name": "Jane Smith",
+        "actor_photo": "https://i.ibb.co/pyRhtQG/download-3.jpg",
+        "salary": 8000,
+        "designation": "Supporting Actor",
+        "description": "Jane Smith is a versatile actor with a wide range of acting abilities."
+    },
+    {
+        "id": 3,
+        "actor_name": "Michael Johnson",
+        "actor_photo": "https://i.ibb.co/WDBWtzV/web-developer.jpg",
+        "salary": 2000,
+        "designation": "Lead Actor",
+        "description": "Michael Johnson is a charismatic actor with a strong presence on-screen."
+    },
+    {
+        "id": 4,
+        "actor_name": "Emily Davis",
+        "actor_photo": "https://i.ibb.co/Mc2RBYq/3.jpg",
+        "salary": 9000,
+        "designation": "Supporting Actor",
+        "description": "Emily Davis is a rising star in the world of acting, known for her exceptional talent."
+    },
+    {
+        "id": 5,
+        "actor_name": "William Brown",
+        "actor_photo": "https://i.ibb.co/4V6zSPd/1.jpg",
+        "salary": 7500,
+        "designation": "Character Actor",
+        "description": "William Brown is a character actor known for his unique and memorable roles."
+    }
+]
