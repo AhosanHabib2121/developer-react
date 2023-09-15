@@ -15,7 +15,7 @@ const Cart = ({ SingleCardData, flag, costTotal, remainingTotal }) => {
 
             <div className={`${flag ? 'bg-sky-200 px-5 py-4 rounded-lg space-y-1 my-8':''}`}>
                 {
-                    SingleCardData.map(singleData => <li key={singleData.id}>{ singleData.actor_name }</li>)
+                    SingleCardData.map((singleData, idx) => <li key={singleData.id}>{idx+1} { singleData.actor_name }</li>)
                 }
             </div>
         </div>
